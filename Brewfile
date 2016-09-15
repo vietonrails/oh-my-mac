@@ -5,7 +5,7 @@ tap 'caskroom/cask'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 
-# brew
+# install by brew
 brew 'autoconf'
 brew 'xz'
 brew 'automake'
@@ -36,7 +36,7 @@ brew 'node'
 brew 'readline'
 brew 'postgresql'
 
-# mas
+# install by AppleStore
 mas 'Memory Clean', id: 451444120
 mas 'GarageBand', id: 682658836
 mas 'iMovie', id: 408981434
@@ -46,7 +46,7 @@ mas 'The Unarchiver', id: 425424353
 mas 'Wunderlist', id: 410628904
 mas 'Numbers', id: 409203825
 
-# cask
+# install by files
 cask 'adium'
 cask 'adobe-air'
 cask 'android-studio'

@@ -1,6 +1,8 @@
-`brew` : install by brew
-`cask` : install by app
-`mas` : install by AppleStore
+Tự động install các app cần dùng cho mac.
+Phòng khi được đổi máy hoặc mất máy =)).
 
-cask_args appdir: '/Applications'
-
+```
+zsh oh-my-mac.sh
+# or
+bash oh-my-mac.sh
+```
